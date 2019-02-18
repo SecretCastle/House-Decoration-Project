@@ -1,0 +1,51 @@
+{
+    "": [
+        "readme.md", 
+        "disposable", 
+        "furniture", 
+        "electricappliance", 
+        "consumption", 
+        "module"
+    ], 
+    "consumption": [
+        "readme.md"
+    ], 
+    "disposable": [
+        "readme.md"
+    ], 
+    "module": [
+        "readme.md"
+    ], 
+    "electricappliance": [
+        "readme.md"
+    ], 
+    "__positions": {
+        "furniture/readme.md": 3001, 
+        "consumption": 5, 
+        "consumption/readme.md": 5001, 
+        "disposable": 2, 
+        "module": 6, 
+        "disposable/readme.md": 2001, 
+        "module/readme.md": 6001, 
+        "electricappliance": 4, 
+        "electricappliance/readme.md": 4001, 
+        "readme.md": 1, 
+        "furniture": 3
+    }, 
+    "__raw_positions": {
+        "furniture/readme.md": 1, 
+        "consumption": 5, 
+        "consumption/readme.md": 1, 
+        "disposable": 2, 
+        "module": 6, 
+        "disposable/readme.md": 1, 
+        "module/readme.md": 1, 
+        "electricappliance": 4, 
+        "electricappliance/readme.md": 1, 
+        "readme.md": 1, 
+        "furniture": 3
+    }, 
+    "furniture": [
+        "readme.md"
+    ]
+}
