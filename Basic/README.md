@@ -5,7 +5,7 @@
 ## 电路排线
 
 
-![设计规范](http://qiniu.media.ineet.cn/WechatIMG43.jpeg)
+![设计规范](http://qiniu.media.ineet.cn/images/jpg/house/WechatIMG43.jpeg)
 
 
 > 电路PVC管，使用标准
@@ -16,6 +16,7 @@
 | 插座线路 | 25mm | 
 | 照明线路 | 20mm |
 | 其他线路 | 25mm |
+| 厨房线路 | 40mm |
 
 >  墙壁、地面等地陷凿起规范
 
