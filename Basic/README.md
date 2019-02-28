@@ -5,7 +5,7 @@
 ## 电路排线
 
 
-    <img src="http://qiniu.media.ineet.cn/WechatIMG43.jpeg" style="transform:rotate(90deg) scale(0.7);"/>
+![设计规范](http://qiniu.media.ineet.cn/WechatIMG43.jpeg)
 
 
 > 电路PVC管，使用标准
